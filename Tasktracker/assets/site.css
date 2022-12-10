@@ -1,0 +1,41 @@
+body{
+    font-size: 14px;
+    color: #666;
+    background-color: #eee;
+    font-family: "Open Sans", sans-serif;
+
+}
+h1{
+    font-size: 36px;
+    color: #404044;
+    font-family: "Muli", sans-serif;
+    font-weight: 1000;
+}
+h2{
+    font-family: "Muli", sans-serif;
+    font-size: 18px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form div{
+    background-color: white;
+}
+form input::placeholder {
+    color: red;
+    
+    font-style: italic;
+  }
+  a{
+    color: green;
+   
+  }
+  a:hover {
+    color: yellow;
+  }
+  footer i{
+    padding-left: 1rem;
+  }
