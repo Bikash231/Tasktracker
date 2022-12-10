@@ -1,5 +1,6 @@
 # Tasktracker
- Tasttracker is a webportal supports managing tasks of users.
+ Tasttracker is a webportal supports managing tasks of users. 
+ The webportal is developed using HTML, BootsTrap3, CSS and javascript.
  The users can provide their data in a form to register to the portal.
  After their registration the users can create new tasks.
  The created tasks are persisted.
